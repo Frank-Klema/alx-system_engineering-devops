@@ -19,4 +19,4 @@
 17. Task 16: del all files ending with ~
 18. Task 17: create nested dirs
 19. Task 18: list all files and dirs of pwd separated by commas
-20. Task 19: YET
+20. Task 19: create magic file for school data type
